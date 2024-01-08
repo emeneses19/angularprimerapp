@@ -1,0 +1,10 @@
+.card{
+    margin-top: 12px;
+}
+mat-form-field{
+    width: 100%;
+    margin: 5px;
+}
+.btnaceptar{
+    margin-right: 5px;
+}
